@@ -1,5 +1,5 @@
 # Global wildlife diversity in team sport organisations
-<img align="right" src="www/tigerlogo.png" alt="generic team logo" width="150" style="margin-top: 20px">
+<img align="right" src="www/tigerlogo.png" alt="generic team logo" width="250" style="margin-top: 20px">
 
 <br>
 Prof <a href="https://globalecologyflinders.com/people/#DIRECTOR">Corey J. A. Bradshaw</a> <br>
