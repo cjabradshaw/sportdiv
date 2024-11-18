@@ -7,7 +7,7 @@ Prof <a href="https://globalecologyflinders.com/people/#DIRECTOR">Corey J. A. Br
 November 2024 <br>
 <a href=mailto:corey.bradshaw@flinders.edu.au>e-mail</a> <br>
 <br>
-<strong></strong>project lead</strong>: <a href="https://www.linkedin.com/in/ugo-arbieu-3639302b7/">Ugo Arbieu</a><br>
+<strong>project lead</strong>: <a href="https://www.linkedin.com/in/ugo-arbieu-3639302b7/">Ugo Arbieu</a><br>
 <strong>contributors</strong>: <a href="https://celinebellard.wordpress.com">Céline Bellard</a>, <a href="https://scholar.google.com/citations?user=sU-JXvwAAAAJ&hl=pt-BR">Ricardo Correia</a>, <a href="https://www.cee-m.fr/member/courtois-pierre/">Pierre Courtois</a>, <a href="https://researchportal.helsinki.fi/en/persons/enrico-di-minin">Enrico Di Minin</a>, <a href="https://www.ivanjaric.com">Ivan Jaric</a>, <a href="https://borisleroy.com">Boris Leroy</a>, <a href="https://exss.unc.edu/faculty-staff/jessica-murfree/">Jessica Murfree</a>, <a href="https://kpe.utoronto.ca/faculty/orr-madeleine">Madeleine Orr</a>, <a href="https://ecoanthropologie.fr/fr/annuaire/roturier-samuel-8639">Samuel Roturier</a>, <a href="https://scholar.google.com/citations?user=yId0fgwAAAAJ&hl=en">Melanie Sartore-Baldwin</a>, <a href="https://www.diogoverissimo.com">Diogo Veríssimo</a>, <a href="https://www.biodiversitydynamics.fr/franck-courchamp/">Franck Courchamp</a><br>
 <br>
 Accompanies paper:<br>
