@@ -1,5 +1,5 @@
 # Global wildlife diversity in team sport organisations
-<a href="https://doi.org/10.5281/zenodo.15282388"><img src="https://zenodo.org/badge/889847704.svg" alt="DOI"></a>
+<a href="https://doi.org/10.5281/zenodo.15282388"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15282388.svg" alt="DOI"></a>
 <img align="right" src="www/tigerlogo.png" alt="generic team logo" width="250" style="margin-top: 20px">
 
 <br>
