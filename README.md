@@ -24,7 +24,7 @@ Arbieu, U, C Bellard, CJA Bradshaw, R Correia, P Courtois, E Di Minin, I Jaric, 
 - <em>dat.csv</em>: database focusing on the taxa that could be identified to species level
 
 ## Required R packages
-<code>boot</code>, <code>ggplot2</code>, <code>ggpubr</code>, <code>Hmisc</code>, <code>lme4</code>, <code>performance</code>, <code>sjPlot</code>
+<code>boot</code>, <code>ggplot2</code>, <code>ggpubr</code>, <code>ggrepel</code>, <code>gridExtra</code>, <code>Hmisc</code>, <code>lme4</code>, <code>performance</code>, <code>sjPlot</code>, <code>reshape2</code>
 
 <br>
 <br>
