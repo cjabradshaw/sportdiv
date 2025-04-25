@@ -2,9 +2,14 @@
 <img align="right" src="www/tigerlogo.png" alt="generic team logo" width="250" style="margin-top: 20px">
 
 <br>
+Dr <a href="https://www.thewildleague.org/en/our-team">Ugo Arbieu</a> <br>
+<a href="https://www.ese.universite-paris-saclay.fr/en/homepage/" target="_blank">Laboratoire Écologie, Société et Évolution</a>, <a href="http://flinders.edu.au" target="_blank">Université Paris-Saclay</a>, Gif-sur-Yvette, France <br>
+April 2025 <br>
+<a href=mailto:ugo.arbieu@universite-paris-saclay.fr>e-mail</a> <br>
+<br>
 Prof <a href="https://globalecologyflinders.com/people/#DIRECTOR">Corey J. A. Bradshaw</a> <br>
 <a href="http://globalecologyflinders.com" target="_blank">Global Ecology</a> | <em><a href="https://globalecologyflinders.com/partuyarta-ngadluku-wardli-kuu/" target="_blank">Partuyarta Ngadluku Wardli Kuu</a></em>, <a href="http://flinders.edu.au" target="_blank">Flinders University</a>, Adelaide, Australia <br>
-November 2024 <br>
+April 2025 <br>
 <a href=mailto:corey.bradshaw@flinders.edu.au>e-mail</a> <br>
 <br>
 <strong>project lead</strong>: <a href="https://www.linkedin.com/in/ugo-arbieu-3639302b7/">Ugo Arbieu</a><br>
