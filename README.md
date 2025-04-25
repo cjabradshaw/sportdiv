@@ -20,8 +20,8 @@ Arbieu, U, C Bellard, CJA Bradshaw, R Correia, P Courtois, E Di Minin, I Jaric, 
 - <code>r.squared.R</code>: source code for calculating goodness-of-fit for linear models (including mixed-effects models)
 
 ## <a href="https://github.com/cjabradshaw/sportdiv/tree/main/data">Data</a>
-- <em>leagueDat.csv</em>: data for professional team sport leagues by country
-- <em>sppDat.csv</em>: database focusing on the taxa that could be identified to species level
+- <em>metadat.csv</em>: data for professional team sport leagues by country
+- <em>dat.csv</em>: database focusing on the taxa that could be identified to species level
 
 ## Required R packages
 <code>boot</code>, <code>ggplot2</code>, <code>ggpubr</code>, <code>Hmisc</code>, <code>lme4</code>, <code>performance</code>, <code>sjPlot</code>
