@@ -15,7 +15,7 @@ Accompanies paper:<br>
 Arbieu, U, C Bellard, CJA Bradshaw, R Correia, P Courtois, E Di Minin, I Jaric, B Leroy, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. In preparation <a href="http://doi.org/">Global wildlife diversity in team sport organisations</a>
 
 ## <a href="https://github.com/cjabradshaw/sportdiv/tree/main/scripts">Scripts</a>
-- <code>sportdiv.R</code>: main R code for analysis
+- <code>sportdivV2.R</code>: main R code for analysis
 - <code>new_lmer_AIC_tables3.R</code>: source code for information-theoretic algorithms
 - <code>r.squared.R</code>: source code for calculating goodness-of-fit for linear models (including mixed-effects models)
 
