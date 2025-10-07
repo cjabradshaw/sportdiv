@@ -18,7 +18,7 @@ April 2025 <br>
 <br>
 Accompanies paper:<br>
 <br>
-Arbieu, U, C Bellard, CJA Bradshaw, R Correia, P Courtois, E Di Minin, I Jaric, B Leroy, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. In review <a href="http://doi.org/">Wildlife diversity in global team sport branding</a>
+Arbieu, U, C Bellard, CJA Bradshaw, R Correia, P Courtois, E Di Minin, I Jaric, B Leroy, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. In review <a href="http://doi.org/">Wildlife diversity in global team sport branding</a>. <em></em>BioScience</em>
 
 ## <a href="https://github.com/cjabradshaw/sportdiv/tree/main/scripts">Scripts</a>
 - <code>sportdivV2.R</code>: main R code for generating figures and statistical analyses
