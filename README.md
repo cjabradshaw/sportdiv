@@ -21,7 +21,7 @@ Accompanies paper:<br>
 Arbieu, U, C Bellard, CJA Bradshaw, R Correia, P Courtois, E Di Minin, I Jaric, B Leroy, JR Murfree, M Orr, S Roturier, M Sartore-Baldwin, D Veríssimo, F Courchamp. In review <a href="http://doi.org/">Wildlife diversity in global team sport branding</a>. <em>BioScience</em>
 
 ## <a href="https://github.com/cjabradshaw/sportdiv/tree/main/scripts">Scripts</a>
-- <code>sportdivV2.R</code>: main R code for generating figures and statistical analyses
+- <code>sportdivV3.R</code>: main R code for generating figures and statistical analyses
 - <code>new_lmer_AIC_tables3.R</code>: source code for information-theoretic algorithms
 - <code>r.squared.R</code>: source code for calculating goodness-of-fit for linear models (including mixed-effects models)
 
