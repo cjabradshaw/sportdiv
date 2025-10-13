@@ -28,9 +28,12 @@ Arbieu, U, C Bellard, CJA Bradshaw, R Correia, P Courtois, E Di Minin, I Jaric, 
 ## <a href="https://github.com/cjabradshaw/sportdiv/tree/main/data">Data</a>
 - <em>metadat.csv</em>: data for professional team sport leagues by country
 - <em>dat.csv</em>: database focusing on the taxa that could be identified to species level
+- <em>localemblems.csv</em>: database focusing on the taxa that could be identified to species level
+- <em>Tab6a_IUCN.csv</em>: database focusing on the taxa that could be identified to species level
+- <em>Tab8a_IUCN.csv</em>: database focusing on the taxa that could be identified to species level
 
 ## Required R packages
-<code>boot</code>, <code>ggplot2</code>, <code>ggpubr</code>, <code>ggrepel</code>, <code>gridExtra</code>, <code>Hmisc</code>, <code>lme4</code>, <code>performance</code>, <code>sjPlot</code>, <code>reshape2</code>
+<code>boot</code>, <code>countrycode</code>, <code>dplyr</code>, <code>ggmap</code>, <code>ggplot2</code>, <code>ggpubr</code>, <code>ggrepel</code>, <code>gridExtra</code>, <code>Hmisc</code>, <code>lme4</code>, <code>performance</code>, <code>reshape2</code>, <code>sjPlot</code>, <code>tidyr</code>, <code>vegan</code>
 
 <br>
 <br>
