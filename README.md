@@ -28,9 +28,9 @@ Arbieu, U, C Bellard, CJA Bradshaw, R Correia, P Courtois, E Di Minin, I Jaric, 
 ## <a href="https://github.com/cjabradshaw/sportdiv/tree/main/data">Data</a>
 - <em>metadat.csv</em>: data for professional team sport leagues by country
 - <em>dat.csv</em>: database focusing on the taxa that could be identified to species level
-- <em>localemblems.csv</em>: database focusing on the taxa that could be identified to species level
-- <em>Tab6a_IUCN.csv</em>: database focusing on the taxa that could be identified to species level
-- <em>Tab8a_IUCN.csv</em>: database focusing on the taxa that could be identified to species level
+- <em>localemblems.csv</em>: species in emblems that are found in the country in question
+- <em>Tab6a_IUCN.csv</em>: <a href="https://www.iucnredlist.org/statistics">number of animal species (kingdom: Animalia) listed in each IUCN Red List Category by country</a>
+- <em>Tab8a_IUCN.csv</em>: <a href="https://nc.iucnredlist.org/redlist/content/attachment_files/2025-2_RL_Table8a.pdf">total, total threatened, and total EX or EW endemic bird, mammal, reptile and amphibian species in each country for groups where > 80% of species in the group have been assessed (totals by taxonomic group) from the IUCN</a>
 
 ## Required R packages
 <code>boot</code>, <code>countrycode</code>, <code>dplyr</code>, <code>ggmap</code>, <code>ggplot2</code>, <code>ggpubr</code>, <code>ggrepel</code>, <code>gridExtra</code>, <code>Hmisc</code>, <code>lme4</code>, <code>performance</code>, <code>reshape2</code>, <code>sjPlot</code>, <code>tidyr</code>, <code>vegan</code>
